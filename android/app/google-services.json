@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "758077822447",
+    "project_id": "rncontacts-85f2c",
+    "storage_bucket": "rncontacts-85f2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758077822447:android:724613919e6ae2cbbd121a",
+        "android_client_info": {
+          "package_name": "com.faraway.rncontacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758077822447-bsk73k1ljak2l9vsnpp1h1ceo7ktg5ob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgcxuD071GiHq8NKzkCQCr60Vx50QTktg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758077822447-bsk73k1ljak2l9vsnpp1h1ceo7ktg5ob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
